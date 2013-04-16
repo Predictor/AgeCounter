@@ -1,6 +1,7 @@
-﻿Implementation of task:
-example.com/file	10gb
-NUM;SEX;NAME;AGE
-1;MALE;VASYA;10
-1;FEMALE;MASHA;10
-Средний возраст совершеннолетних женщин
+Implementation of task:<br>
+example.com/file	10gb<br>
+NUM;SEX;NAME;AGE<br>
+1;MALE;VASYA;10<br>
+1;FEMALE;MASHA;10<br>
+Средний возраст совершеннолетних женщин<br>
+See AvgAgeCounter.java
