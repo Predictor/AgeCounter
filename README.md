@@ -4,4 +4,4 @@ NUM;SEX;NAME;AGE<br>
 1;MALE;VASYA;10<br>
 1;FEMALE;MASHA;10<br>
 Средний возраст совершеннолетних женщин<br>
-See AvgAgeCounter.java
+<b>See <i>AvgAgeCounter.java</i><b>
